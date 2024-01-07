@@ -175,7 +175,7 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
-      img: "http://www.posking.ca/wp-content/uploads/2016/06/logo.jpg?raw=true",
+      img: "http://www.posking.ca/wp-content/uploads/2016/06/logo.jpg",
       role: "Administrative Assistant",
       company: "POS KING Software Inc. Toronto, ON",
       date: "Mar 2021 - Dec 2021",
