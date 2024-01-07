@@ -175,7 +175,7 @@ export const Bio = {
   export const experiences = [
     {
       id: 0,
-      img: "http://www.posking.ca/wp-content/uploads/2016/06/logo.jpg",
+      img: "https://github.com/YeT1AN/YeT1AN.github.io/blob/main/public/posking-logo.jpeg?raw=true",
       role: "Administrative Assistant",
       company: "POS KING Software Inc. Toronto, ON",
       date: "Mar 2021 - Dec 2021",
@@ -269,8 +269,8 @@ export const Bio = {
         </table>
       ),
       degree: "Advanced Diploma - Computer Programming & Analysis",
-      doc0: "2023W.png?raw=true",
-      doc1: "2023S.png?raw=true"
+      doc0: "https://github.com/YeT1AN/YeT1AN.github.io/blob/main/public/2023W.png?raw=true",
+      doc1: "https://github.com/YeT1AN/YeT1AN.github.io/blob/main/public/2023S.png?raw=true"
     },
     {
       id: 1,
@@ -279,7 +279,8 @@ export const Bio = {
       date: "May 2020 - Mar 2021",
       grade: "Honours",
       desc: "Through this academic journey, I have cultivated strong analytical and problem-solving abilities, emphasizing attention to detail and precision. I have seamlessly transferred these skills into my computer programming studies, where I have effectively employed them. My interdisciplinary background empowers me to approach challenges with innovative perspectives and collaborate seamlessly within teams, contributing a distinctive viewpoint to development projects.",
-      degree: "Certificate - Culinary Skills"
+      degree: "Certificate - Culinary Skills",
+      doc0: "https://github.com/YeT1AN/YeT1AN.github.io/blob/main/public/centennial.png?raw=true"
     },
   ];
   
